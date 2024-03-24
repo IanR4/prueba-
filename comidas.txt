@@ -2,4 +2,3 @@ Arroz
 Fideos
 Pescado
 Papa
-Milanesa
